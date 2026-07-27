@@ -1,11 +1,20 @@
---------------------------------------------------------------------------------------------------------------------------------------------------               
-   <br/>
-  Hi, I am Joshua Stenger! Currently, I am a Computer Science student(Bachelors of Science) at Duquesne University in Pittsburgh, Pa. <br/>
-  My interests during my studies are Backend Developement, Machine Learning and Robotics.<br/>
-  Please feel free to check out all code submitted onto this profile, but while all of my personal projects will be self created,
-  the website where I post my projects is not.<br/>
-  It was created from a MOSH youtube tutorial over my freshman Christmas break. (Credit to MOSH)<br/>
- 
-  Thank you for stopping by and checking out my profile!<br/>
- 
-  --------------------------------------------------------------------------------------------------------------------------------------------------
+# Hi, I'm Joshua Stenger
+
+I'm a Software Engineer with a passion for building reliable software, artificial intelligence systems, and robotics. I enjoy solving real-world problems through thoughtful engineering and continuously learning new technologies.
+
+My interests include:
+- Artificial Intelligence & Machine Learning
+- Robotics & Computer Vision
+- Backend & Full-Stack Development
+- Distributed Systems
+- Open Source
+
+Most of my repositories are projects I've built to learn, experiment, and solve interesting problems. Feel free to explore them, and don't hesitate to reach out if you'd like to connect or collaborate.
+
+## Technologies
+
+Python • C#/.NET • Java • TypeScript • React • Next.js • FastAPI • PostgreSQL • SQL Server • Docker • Kubernetes • PyTorch • Linux
+
+---
+
+Thanks for stopping by.
