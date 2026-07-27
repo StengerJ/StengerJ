@@ -17,4 +17,4 @@ Python • C#/.NET • Java • TypeScript • React • Next.js • FastAPI •
 
 ---
 
-Thanks for stopping by.
+Thanks for stopping by. Check out my portfolio here and on <a href='https://stengerj.github.io/JoshuaStenger.github.io/' />
